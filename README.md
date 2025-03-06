@@ -6,12 +6,7 @@ Summarization Tool Using LangChain and LLM
 
 This project provides a Streamlit application for summarizing long articles or documents into concise summaries using LangChain and a pre-trained Large Language Model (LLM).
 
-## Project Structure
-summarization-tool/
-├── summarization_tool.py  # Main Streamlit application script
-├── summarizer.py          # Summarization logic with LangChain and LLM
-├── requirements.txt       # Python library dependencies
-└── .env                   # Contains API keys (add to .gitignore)
+
 
 ## Prerequisites
 
@@ -94,6 +89,4 @@ summarization-tool/
 
 Contributions are welcome! Please feel free to submit pull requests or open issues.
 
-## License
 
-[Add your license here, e.g., MIT License]
